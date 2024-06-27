@@ -3,6 +3,12 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria Mobile é essencial para o desenvolvimento de aplicativos modernos e eficientes para dispositivos móveis.
+
+Ao completar esta categoria, terá habilidades sólidas em:
+
+Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
+
 <!-- Informações -->
 ## &#8505; Informações
 
