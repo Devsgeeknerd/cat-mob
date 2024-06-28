@@ -16,6 +16,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
   * Linguagem de programação Kotlin e Java;
   * Estrutura de um projeto Android (activity, fragment, intent);
   * Layouts e UI (xml, constrainLayout, recycleView);
+  * Armazenamento de dados (sharedPreferences, sqlite, room);
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
