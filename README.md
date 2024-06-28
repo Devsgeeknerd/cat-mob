@@ -13,6 +13,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
   * Ciclo de vida de um aplicativo móvel.
 
 * **Desenvolvimento para Android:** Criação de aplicativos nativos para a plataforma Android.
+  * Linguagem de programação Kotlin e Java;
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
