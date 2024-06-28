@@ -7,6 +7,8 @@ A categoria Mobile é essencial para o desenvolvimento de aplicativos modernos e
 
 Ao completar esta categoria, terá habilidades sólidas em:
 
+* **Fundamentos do Desenvolvimento Mobile:** Introdução aos conceitos básicos do desenvolvimento de aplicativos móveis.
+
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
 <!-- Informações -->
