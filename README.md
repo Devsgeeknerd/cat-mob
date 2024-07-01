@@ -20,6 +20,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
   * Integração com APIs e serviços web.
 
 * **Desenvolvimento para iOS:** Criação de aplicativos nativos para a plataforma iOS.
+  * Linguagem de programação Switf;
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
