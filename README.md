@@ -38,6 +38,8 @@ Ao completar esta categoria, terá habilidades sólidas em:
   * Prototipagem e testes de usabilidade;
   * Design para acessibilidade.
 
+* **Desempenho e Otimização de Aplicativos Móveis:** Técnicas para garantir que aplicativos móveis sejam rápidos e eficientes.
+
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
 <!-- Informações -->
