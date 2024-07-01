@@ -24,6 +24,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
   * Estrutura de um projeto iOS (uiViewController, uiStoryboard, segues);
   * Layouts e UI (auto layouts, interface builder);
   * Armazenamento de dados (userDefaults, core data, realm);
+  * Integração com APIs e serviços web.
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
