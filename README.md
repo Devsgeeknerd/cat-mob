@@ -71,6 +71,7 @@ Essas habilidades são fundamentais para criar aplicativos móveis de alta quali
 >   * Analise aplicativos populares para entender suas melhores práticas e designs.
 >
 > * Atualização Constante:
+>   * Fique atento as novidades e atualizações das plataformas.
 
 <!-- Informações -->
 ## &#8505; Informações
