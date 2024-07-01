@@ -34,6 +34,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
 
 * **Design de Interfaces Móveis (UI/UX):** Criação de interfaces de usuário eficazes e atraentes para dispositivos móveis.
   * Princípios de mobile-first;
+  * Usabilidade e experiencia do usuário (UX) para dispositivos móveis;
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
