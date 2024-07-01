@@ -45,6 +45,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
 * Melhorias de carga e tempo de resposta.
 
 * **Integração com Serviços Back-end:** Conexão de aplicativos móveis a serviços e APIs back-end para funcionalidades avançadas.
+  * RESTful APIs e GraphQL;
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
