@@ -27,6 +27,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
   * Integração com APIs e serviços web.
 
 * **Desenvolvimento Multiplataforma:** Criação de aplicativos que funcionam em múltiplas plataformas com um único código base.
+  * Frameworks e ferramentas;
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
