@@ -23,6 +23,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
   * Linguagem de programação Switf;
   * Estrutura de um projeto iOS (uiViewController, uiStoryboard, segues);
   * Layouts e UI (auto layouts, interface builder);
+  * Armazenamento de dados (userDefaults, core data, realm);
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
