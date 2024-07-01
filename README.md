@@ -50,6 +50,8 @@ Ao completar esta categoria, terá habilidades sólidas em:
   * Armazenamento e sincronização de dados na nuvem;
   * Notificações push e serviços de mensagens.
 
+* **Publicação e Manutenção de Aplicativos Móveis:** Preparação e laçamento de aplicativos móveis nas lojas de aplicativos.
+
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
 <!-- Informações -->
