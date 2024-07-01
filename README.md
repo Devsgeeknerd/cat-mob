@@ -19,6 +19,8 @@ Ao completar esta categoria, terá habilidades sólidas em:
   * Armazenamento de dados (sharedPreferences, sqlite, room);
   * Integração com APIs e serviços web.
 
+* **Desenvolvimento para iOS:** Criação de aplicativos nativos para a plataforma iOS.
+
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
 <!-- Informações -->
