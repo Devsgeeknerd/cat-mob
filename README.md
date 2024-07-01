@@ -54,6 +54,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
   * Processos de publicação na lojas;
   * Gerenciamento de versões e atualizações;
   * Coleta e análise de feedback de usuários;
+  * Manutenção e suporte contínuos.
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
