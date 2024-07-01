@@ -52,6 +52,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
 
 * **Publicação e Manutenção de Aplicativos Móveis:** Preparação e laçamento de aplicativos móveis nas lojas de aplicativos.
   * Processos de publicação na lojas;
+  * Gerenciamento de versões e atualizações;
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
