@@ -28,6 +28,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
 
 * **Desenvolvimento Multiplataforma:** Criação de aplicativos que funcionam em múltiplas plataformas com um único código base.
   * Frameworks e ferramentas;
+  * Estrutura e organização de projetos multiplataforma;
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
