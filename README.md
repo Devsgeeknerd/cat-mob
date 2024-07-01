@@ -42,6 +42,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
 * Técnicas de otimização de desempenho;
 * Gerenciamento de memória e recursos;
 * Testes de desempenho e profiling;
+* Melhorias de carga e tempo de resposta.
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
