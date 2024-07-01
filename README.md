@@ -21,6 +21,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
 
 * **Desenvolvimento para iOS:** Criação de aplicativos nativos para a plataforma iOS.
   * Linguagem de programação Switf;
+  * Estrutura de um projeto iOS (uiViewController, uiStoryboard, segues);
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
