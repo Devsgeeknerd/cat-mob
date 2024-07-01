@@ -48,6 +48,7 @@ Ao completar esta categoria, terá habilidades sólidas em:
   * RESTful APIs e GraphQL;
   * Autenticação e autorização (oauth, jwt);
   * Armazenamento e sincronização de dados na nuvem;
+  * Notificações push e serviços de mensagens.
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
