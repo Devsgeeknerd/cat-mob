@@ -66,6 +66,8 @@ Essas habilidades são fundamentais para criar aplicativos móveis de alta quali
 >
 > * Participação em Comunidade:
 >   * Envolva-se em fóruns e grupos online para trocar experiência e resolver dúvidas.
+>
+> * Estudo de Casos;
 
 <!-- Informações -->
 ## &#8505; Informações
