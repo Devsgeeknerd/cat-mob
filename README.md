@@ -63,6 +63,8 @@ Essas habilidades são fundamentais para criar aplicativos móveis de alta quali
 >
 > * Prática Contínua:
 >   * Crie projetos próprios para aplicar os conhecimentos adquiridos.
+>
+> * Participação em Comunidade:
 
 <!-- Informações -->
 ## &#8505; Informações
