@@ -58,6 +58,11 @@ Ao completar esta categoria, terá habilidades sólidas em:
 
 Essas habilidades são fundamentais para criar aplicativos móveis de alta qualidade que atendam às necessidades dos usuários em um mercado competitivo.
 
+> [!IMPORTANT]\
+> **Dicas de Estudo:**
+>
+> * Prática Contínua:
+
 <!-- Informações -->
 ## &#8505; Informações
 
