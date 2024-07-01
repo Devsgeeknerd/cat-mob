@@ -62,6 +62,7 @@ Essas habilidades são fundamentais para criar aplicativos móveis de alta quali
 > **Dicas de Estudo:**
 >
 > * Prática Contínua:
+>   * Crie projetos próprios para aplicar os conhecimentos adquiridos.
 
 <!-- Informações -->
 ## &#8505; Informações
