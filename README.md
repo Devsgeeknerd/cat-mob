@@ -39,10 +39,10 @@ Ao completar esta categoria, terá habilidades sólidas em:
   * Design para acessibilidade.
 
 * **Desempenho e Otimização de Aplicativos Móveis:** Técnicas para garantir que aplicativos móveis sejam rápidos e eficientes.
-* Técnicas de otimização de desempenho;
-* Gerenciamento de memória e recursos;
-* Testes de desempenho e profiling;
-* Melhorias de carga e tempo de resposta.
+  * Técnicas de otimização de desempenho;
+  * Gerenciamento de memória e recursos;
+  * Testes de desempenho e profiling;
+  * Melhorias de carga e tempo de resposta.
 
 * **Integração com Serviços Back-end:** Conexão de aplicativos móveis a serviços e APIs back-end para funcionalidades avançadas.
   * RESTful APIs e GraphQL;
